@@ -71,7 +71,7 @@ def main():
                 2. [calculation] = [result]
 
                 Solution: [Number]
-
+                Please Try Another Problem:
                 """
 
                 # Get and display AI response
