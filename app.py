@@ -67,8 +67,8 @@ def main():
 
                 Format like this:
                 Step-by-step breakdown:
-                1. [calculation] - [result]
-                2. [calculation] - [result]
+                1. [calculation] = [result]
+                2. [calculation] = [result]
 
                 Solution: [Number]
 
