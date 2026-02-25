@@ -39,10 +39,10 @@ def prepare_image(uploaded_file):
 # Main web app
 def main():
     # Set up the webpage
-    st.set_page_config(page_title="Math Problem Solver", page_icon="🍽️")
+    st.set_page_config(page_title="Math Problem Solver", page_icon="🔢")
     
     # Add title and description
-    st.title("🍽️ Math Advisor")
+    st.title("🔢 Math Advisor")
     st.write("Upload a photo of your math problem to solve it!")
 
     # Create file uploader
